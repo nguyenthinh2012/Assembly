@@ -1,3 +1,7 @@
+Use Gists to keep track of any information you'd like to remember later on.
+
+---
+
 ## White Chocolate Raspberry Cheesecake
 From: http://allrecipes.com/Recipe/White-Chocolate-Raspberry-Cheesecake/Detail.aspx
 
