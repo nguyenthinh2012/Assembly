@@ -12,4 +12,4 @@ Create documentation for your projects. Like so:
 
 GistBox Clipper is the companion extension to GistBox, the most beautiful way to organize code snippets. It allows a user to create a GitHub Gist from any page on the web.
 
-Download from: https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido
+[Download from the Chrome Web Store](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido)
